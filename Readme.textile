@@ -1,0 +1,1 @@
+Annuska is a IRC Bot written in Python. The ability to log Channel information and provide information on command.
